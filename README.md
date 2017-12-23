@@ -2,6 +2,8 @@
 
 Very simple blockchain service written in Python.
 
+![Blockchain app](blockchain.png)
+
 ## How to use
 
 * Requires Flask, Flask-restful, Python3.5.x
